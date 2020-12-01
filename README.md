@@ -1,6 +1,6 @@
 BOOKMARK SERVER APPLICATION
 
-This is a server-side application for the Bookmark React app
+This is a server-side application for the Bookmark React app.
 
 In this application, we:
 
